@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Rental</string>
+    <string name="list_kosong">Belum ada data</string>
+    <string name="x_diklik">%1$s diklik</string>
+    <string name="tambah_mahasiswa">Rental</string>
+    <string name="nama">Nama</string>
+    <string name="gender">Gender</string>
+    <string name="jenis_kendaraan">Jenis kendaraan</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_mahasiswa">Rental</string>
+    <string name="invalid">Nama, jenis kendaraan, dan gender tidak boleh kosong.</string>
+    <string name="bagikan" translatable="false">Bagikan</string>
+    <string name="bagikan_template">Nama: %1$s, Jenis Kendaraan: %2$s, Gender: %3$s</string>
+    <string name="lainnya">Opsi lainnya</string>
+    <string name="hapus">Hapus data Mahasiswa</string>
+    <string name="hapus_catatan">Hapus catatan?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+</resources>
